@@ -2,6 +2,7 @@ package com.example.demoapp4
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.demoapp4.R
 import timber.log.Timber
 
 class MainActivity : AppCompatActivity() {
